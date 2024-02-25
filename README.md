@@ -1,6 +1,6 @@
-- Hello, I'm a mathematician and AI scientist/engineer working under the name of @PROFOUNDIVE.
-- I’m interested in Reinforcement Learning(especially in Transfer Learning), Self-Supervised Learning, Data Processing/Visualization(numpy, pandas, matplotlib(seaborn))
-- I'm learning now English, well coming soon 😎
+- Math undergrad passionate about leveraging reinforcement learning to craft superhuman AI models.
+- Deeply engaged in merging mathematical rigor with AI to solve complex challenges.
+- Looking for GitHub collaborations that push the boundaries of what's possible in AI.
 
 <!---
 PROFOUNDIVE/PROFOUNDIVE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

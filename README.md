@@ -1,4 +1,4 @@
-- Math undergrad passionate about leveraging reinforcement learning to craft superhuman AI models. 
+- Math undergrad passionate about leveraging RL&NLP to craft superhuman AI models. 
 - Deeply engaged in merging mathematical rigor with AI to solve complex challenges.
 - Looking for GitHub collaborations that push the boundaries of what's possible in AI. 🧐
 
